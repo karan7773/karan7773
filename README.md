@@ -1,5 +1,5 @@
-Hi 👋 My name is Karan S
-========================
+Hi 👋 My name is Karan
+======================
 
 Junior Developer
 ----------------
